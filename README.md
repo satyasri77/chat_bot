@@ -6,3 +6,4 @@ These are foundational prompting techniques that generate impressive results fro
 1. Zero-shot prompting - Ask the questions directly without any training
 2. Few-shot prompting - provide a few examples of the task before asking the model to do it
 3. Chain-of-thought prompting - Encourage step-by-step logic and generate the response.
+
