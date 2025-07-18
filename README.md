@@ -1,4 +1,4 @@
-# Chat bot for customer service using LLMA 
+# Chat bot for customer service using Llama 
 
 The notebook contains basic customer service data in text format to train Llama model using the provided information. Llama is an open-source LLM model developed by Meta starting in Feb 2023. I have built a chat bot using RAG (retrieval-augmented generation) means only limiting the responses and answering the questions depending on the document information. With limited examples of data or information, one can use RAG/prompt engineering to get the desired response. You can control the randomness of the response generation using temperature parameter (lower the temperature, less randomness in response generation).
 
